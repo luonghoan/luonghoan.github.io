@@ -1,0 +1,32 @@
+# Translation of Themes - Shuttle goBusiness in Vietnamese
+# This file is distributed under the same license as the Themes - Shuttle goBusiness package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-09-13 12:11:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Shuttle goBusiness\n"
+
+#. Description of the theme
+msgid "Shuttle goBusiness is the awesome free version of Shuttle Pro. It is really good for professionals. If you want to make a business, for big or small this theme is good for you. So if it is a restaurant, sport, medical, startup, corporate, business, ecommerce, portfolio, freelancers or any type of online agency or firm you will want to use this cool design. It had a multi-purpose design with widget areas in footer, so now even easy to make blog / news website which looks really clean and professional. The theme is responsive, WPML, Polylang, Retina ready, SEO friendly, and is a super design. Shuttle is fast and lightweight and can be used for any type of website, fully compatible with eCommerce plugins like WooCommerce an JigoShop. Whether you are building a website for yourself, your business or are a freelancer building websites for your cliente, Shuttle is the perfect choice. Plus if works with all the major page builders such as Elementor, Beaver Builder, Visual Composer, Divi, SiteOrigin and so much more!"
+msgstr "Shuttle goBusiness là phiên bản miễn phí của Shuttle Pro. Phù hợp cho trang dịch vụ chuyên nghiệp. Nếu bạn muốn tìm theme cho doanh nghiệp, dù lớn hoặc nhỏ thì nó đều phù hợp. Nếu đó là nhà hàng, thể thao, y tế, khởi nghiệp, doanh nghiệp, dịch vụ, bán hàng, portfolio, freelancer hoặc bất kỳ kiểu agency online nào bạn cũng có thể sử dụng theme này. Nó có thiết kế đa tính năng với nhiều widget ở footer, nên bạn có thể dễ dàng tạo blog / web tin tức đơn giản và chuyên nghiệp. Theme đảm bảo responsive, hỗ trợ WPML, Polylang, Retina, tối ưu SEO và thiết kế tuyệt đẹp. Shuttle nhanh và sạch và có thể dùng cho bất kỳ kiểu web nào, hoàn toàn tương thích với plugin thương mại điện tử như WooCommerce hoặc JigoShop. Bất kể bạn làm web cho chính bạn, doanh nghiệp bạn hoặc freelancer thì Shuttle đều là lựa hoàn hảo. Hơn nữa theme làm việc tốt với Elementor, Beaver Builder, Visual Composer, Divi, SiteOrigin và nhiều nữa!"
+
+#. Theme Name of the theme
+msgid "Shuttle goBusiness"
+msgstr "Shuttle goBusiness"
+
+#. Author URI of the theme
+msgid "https://www.shuttlethemes.com"
+msgstr "https://www.shuttlethemes.com"
+
+#. Author of the theme
+msgid "Shuttle Themes"
+msgstr "Shuttle Themes"
+
+#. Theme URI of the theme
+msgid "https://shuttlethemes.com/features/"
+msgstr "https://shuttlethemes.com/features/"

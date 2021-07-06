@@ -1,0 +1,1578 @@
+# Translation of Themes - Airi in Vietnamese
+# This file is distributed under the same license as the Themes - Airi package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-10 02:25:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Airi\n"
+
+#. Theme Name of the theme
+#: inc/theme-dashboard-settings.php:40
+#: inc/onboarding/class-airi-onboarding.php:218
+#: inc/onboarding/theme-info.php:144
+msgid "Airi"
+msgstr "Airi"
+
+#: comments.php:83 comments.php:85 comments.php:107 comments.php:109
+msgid "Message"
+msgstr "Tin nhắn"
+
+#: comments.php:82 comments.php:106
+msgid "Website"
+msgstr "Trang web"
+
+#: comments.php:81 comments.php:105
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:80 comments.php:104
+msgid "Name"
+msgstr "Tên"
+
+#: comments.php:74 comments.php:98
+msgid "Send message"
+msgstr "Gửi tin nhắn"
+
+#: comments.php:73 comments.php:97
+msgid "Leave A Comment"
+msgstr "Gửi bình luận"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-6.php:20
+msgid "Style 6"
+msgstr "Kiểu 6"
+
+#: inc/customizer/options/section-header.php:604
+msgid "Button Url"
+msgstr "Url trên nút"
+
+#: inc/customizer/options/section-header.php:590
+msgid "Button Text"
+msgstr "Chữ trên nút"
+
+#: inc/customizer/options/section-header.php:576
+msgid "Block Top Right Content"
+msgstr "Phần Nội dung phía trên bên phải"
+
+#: inc/customizer/options/section-header.php:563
+msgid "Block Top Left Content"
+msgstr "Phần Nội dung phía trên bên trái"
+
+#: inc/customizer/options/section-header.php:535
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/customizer/options/section-header.php:464
+msgid "Call Us"
+msgstr "Gọi chúng tôi"
+
+#: inc/customizer/options/section-header.php:462
+msgid "Custom Text"
+msgstr "Chữ tùy chỉnh"
+
+#: inc/customizer/options/section-header.php:29
+msgid "Basic 4 - inside header"
+msgstr "Basic 4 - tiêu đề bên trong"
+
+#: inc/customizer/options/section-header.php:28
+msgid "Basic 3 - inside header"
+msgstr "Basic 3 - tiêu đề bên trong"
+
+#: inc/customizer/options/section-blog.php:132
+msgid "Comment Form Layout"
+msgstr "Bố cục mẫu bình luận"
+
+#: inc/customizer/options/section-blog.php:126
+#: inc/customizer/options/section-blog.php:138
+msgid "Layout 3"
+msgstr "Bố cục 3"
+
+#: inc/customizer/options/section-blog.php:125
+#: inc/customizer/options/section-blog.php:137
+msgid "Layout 2"
+msgstr "Bố cục 2"
+
+#: inc/customizer/options/section-blog.php:120
+msgid "Content layout"
+msgstr "Nội dung bố cục"
+
+#: inc/customizer/options/section-blog.php:30
+msgid "Two Columns"
+msgstr "Hai cột"
+
+#: inc/customizer/options/section-blog.php:29
+msgid "Classic"
+msgstr "Cổ điển"
+
+#: inc/onboarding/class-airi-onboarding.php:225
+msgid "or visit the welcome page"
+msgstr "hoặc đến thăm trang chủ"
+
+#: inc/onboarding/class-airi-onboarding.php:221
+msgid "Thank you for choosing our theme! Check out the links below to get started."
+msgstr "Cảm ơn bạn đã chọn chủ đề của chúng tôi! Hãy vào các liên kết dưới đây để bắt đầu."
+
+#: inc/onboarding/class-airi-onboarding.php:220
+msgid "Hello, %s, and welcome to Airi"
+msgstr "Xin chào, %s, và chào mừng đến với Airi"
+
+#: inc/onboarding/class-airi-onboarding.php:214
+msgid "Dismiss"
+msgstr "Bỏ qua"
+
+#: inc/onboarding/class-airi-onboarding.php:189
+#: inc/onboarding/plugins/class-airi-recommended-plugins.php:155
+msgid "Activating "
+msgstr "Đang kích hoạt"
+
+#: inc/onboarding/class-airi-onboarding.php:173
+#: inc/onboarding/class-airi-onboarding.php:176
+msgid "Get started with Airi"
+msgstr "Bắt đầu với Airi"
+
+#: inc/onboarding/class-airi-onboarding.php:142
+msgid "Cheatin&#8217; huh?"
+msgstr "Gian lận&#8217; huh?"
+
+#: inc/onboarding/class-airi-onboarding.php:138
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Hành động thất bại. Vui lòng tải lại trang và thử lại"
+
+#: inc/onboarding/class-airi-onboarding.php:37
+msgid "Processing..."
+msgstr "Đang xử lý..."
+
+#: inc/theme-dashboard-settings.php:141 inc/onboarding/theme-info.php:244
+msgid "Priority support"
+msgstr "Hỗ trợ ưu tiên"
+
+#: inc/theme-dashboard-settings.php:136 inc/onboarding/theme-info.php:239
+msgid "Extended WooCommerce options"
+msgstr "Tùy chọn WooCommerce mở rộng"
+
+#: inc/theme-dashboard-settings.php:131 inc/onboarding/theme-info.php:234
+msgid "Extra blog layouts (list, masonry)"
+msgstr "Các bố cục blog bổ sung (danh sách, masonry)"
+
+#: inc/theme-dashboard-settings.php:126 inc/onboarding/theme-info.php:229
+msgid "Two extra menu types"
+msgstr "Hai loại menu bổ sung"
+
+#: inc/theme-dashboard-settings.php:121 inc/onboarding/theme-info.php:224
+msgid "Extra Elementor blocks (portfolio, shop categories, slider)"
+msgstr "Các khối Elementor bổ sung (porfolio, danh mục bán hàng, thanh trượt)"
+
+#: inc/theme-dashboard-settings.php:116 inc/onboarding/theme-info.php:219
+msgid "Footer background image"
+msgstr "Hình nền chân trang"
+
+#: inc/theme-dashboard-settings.php:111 inc/onboarding/theme-info.php:214
+msgid "Footer Credits option"
+msgstr "Tùy chọn Credit Chân trang"
+
+#: inc/theme-dashboard-settings.php:106 inc/onboarding/theme-info.php:209
+msgid "Growing collection of premium demos"
+msgstr "Danh sách các bản demo cao cấp vẫn đang phát triển"
+
+#: inc/theme-dashboard-settings.php:101 inc/onboarding/theme-info.php:204
+msgid "WooCommerce compatible"
+msgstr "Tương thích WooCommerce"
+
+#: inc/theme-dashboard-settings.php:96 inc/onboarding/theme-info.php:200
+msgid "Background image support"
+msgstr "Hỗ trợ hình nền"
+
+#: inc/theme-dashboard-settings.php:91 inc/onboarding/theme-info.php:195
+msgid "Widgetized footer"
+msgstr "Chân trang hỗ trợ widget"
+
+#: inc/theme-dashboard-settings.php:86 inc/onboarding/theme-info.php:117
+#: inc/onboarding/theme-info.php:190
+msgid "Blog options"
+msgstr "Tùy chọn cho blog"
+
+#: inc/theme-dashboard-settings.php:81 inc/onboarding/theme-info.php:115
+#: inc/onboarding/theme-info.php:185
+msgid "Color options"
+msgstr "Tùy chọn màu"
+
+#: inc/theme-dashboard-settings.php:76 inc/onboarding/theme-info.php:180
+msgid "Translation ready"
+msgstr "Bản Dịch Đã Hoàn Thành"
+
+#: inc/theme-dashboard-settings.php:71 inc/onboarding/theme-info.php:175
+msgid "Custom Elementor blocks"
+msgstr "Khối Elementor tùy chỉnh"
+
+#: inc/theme-dashboard-settings.php:66 inc/onboarding/theme-info.php:170
+msgid "Social Icons"
+msgstr "Biểu tượng mạng xã hội"
+
+#: inc/theme-dashboard-settings.php:61 inc/onboarding/theme-info.php:165
+msgid "Parallax backgrounds"
+msgstr "Hình nền Parallax"
+
+#: inc/theme-dashboard-settings.php:56 inc/onboarding/theme-info.php:160
+msgid "Responsive"
+msgstr "Responsive"
+
+#: inc/theme-dashboard-settings.php:51 inc/onboarding/theme-info.php:155
+msgid "Access to all Google Fonts"
+msgstr "Sử dụng tất cả Google Fonts"
+
+#: inc/theme-dashboard-settings.php:46 inc/onboarding/theme-info.php:150
+msgid "Elementor support"
+msgstr "Hỗ trợ Elementor"
+
+#: inc/theme-dashboard-settings.php:41 inc/onboarding/theme-info.php:145
+msgid "Airi Pro"
+msgstr "Airi Pro"
+
+#: inc/theme-dashboard-settings.php:39 inc/onboarding/theme-info.php:143
+msgid "Feature"
+msgstr "Tính năng"
+
+#: inc/onboarding/theme-info.php:265
+msgid "See the changelog"
+msgstr "Xem các thay đổi"
+
+#: inc/onboarding/theme-info.php:135
+msgid "See the Documentation"
+msgstr "Xem các Tài liệu"
+
+#: inc/onboarding/theme-info.php:134
+msgid "Our documentation can help you learn how to use the theme and also provides you with premade code snippets and answers to FAQs."
+msgstr "Tài liệu của chúng tôi có thể giúp bạn tìm hiểu cách sử dụng chủ đề và cũng cung cấp cho bạn các đoạn mã có sẵn và câu trả lời cho các Câu hỏi thường gặp."
+
+#: inc/onboarding/theme-info.php:129
+msgid "Visit the forums"
+msgstr "Đi đến diễn đàn"
+
+#: inc/onboarding/theme-info.php:128
+msgid "Need help? Go ahead and visit our support forums and we'll be happy to assist you with any theme related questions you might have"
+msgstr "Cần giúp đỡ? Hãy đi đến diễn đàn hỗ trợ của chúng tôi và chúng tôi sẽ sẵn lòng hỗ trợ bạn với bất kỳ câu hỏi liên quan đến chủ đề này"
+
+#: inc/onboarding/theme-info.php:127
+msgid "Visit our forums"
+msgstr "Đi đến diễn đàn của chúng tôi"
+
+#: inc/onboarding/class-airi-onboarding.php:224
+msgid "Import a demo site"
+msgstr "Nhập một trang demo"
+
+#: inc/onboarding/theme-info.php:133
+#: theme-dashboard/class-theme-dashboard.php:548
+msgid "Documentation"
+msgstr "Tài liệu"
+
+#: inc/onboarding/theme-info.php:40
+msgid "Free vs Pro"
+msgstr "Miễn phí vs Pro"
+
+#: theme-dashboard/class-theme-dashboard.php:724
+msgid "Changelog"
+msgstr "Danh sách các thay đổi"
+
+#: inc/onboarding/theme-info.php:39
+#: theme-dashboard/class-theme-dashboard.php:613
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: inc/onboarding/theme-info.php:38
+msgid "Getting started"
+msgstr "Bắt đầu"
+
+#: inc/onboarding/theme-info.php:30
+msgid "Hello, %s,"
+msgstr "Xin chào, %s,"
+
+#: inc/onboarding/theme-info.php:21
+msgid "Airi Info"
+msgstr "Thông tin Airi"
+
+#: inc/customizer/options/section-header.php:506
+msgid "Google +"
+msgstr "Google +"
+
+#: inc/customizer/options/section-header.php:492
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer/options/section-header.php:478
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer/upsell/class-customize.php:77
+#: inc/theme-dashboard-settings.php:284
+msgid "Get Airi Pro"
+msgstr "Mua Airi Pro"
+
+#: inc/customizer/upsell/class-customize.php:76
+msgid "Ready for more?"
+msgstr "Sẵn sàng để biết thêm?"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Các plugin được đề xuất sau đây hiện không hoạt động: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Các plugin cần thiết sau đây hiện không hoạt động: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Có bản cập nhật cho: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Những plugin sau cần được cập nhật lên phiên bản mới nhất để đảm bảo khả năng tương thích tối đa với chủ đề này: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Chủ đề này đề xuất các plugin sau: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Chủ đề này cần các plugin sau: %1$s."
+
+#: inc/customizer/options/section-header.php:455
+msgid "Disable header search icon?"
+msgstr "Vô hiệu hóa biểu tượng tìm kiếm tiêu đề?"
+
+#: inc/customizer/options/section-colors.php:1904
+msgid "Mobile toggle color"
+msgstr "Chuyển màu cho di động"
+
+#. Template Name of the theme
+msgid "Page Builder"
+msgstr "Trình dựng trang"
+
+#. Template Name of the theme
+msgid "Fullwidth"
+msgstr "Toàn màn hình"
+
+#: widgets/class-airi-social.php:63
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Chọn &mdash;"
+
+#: widgets/class-airi-social.php:61
+msgid "Select your social menu:"
+msgstr "Chọn menu mạng xã hội của bạn:"
+
+#: widgets/class-airi-social.php:51
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "Không có menu nào được tạo ra. <a href=\"%s\">Tạo một số </a>."
+
+#: widgets/class-airi-social.php:12
+msgid "Airi: Social Profile"
+msgstr "Airi: Hồ sơ mạng xã hội"
+
+#: widgets/class-airi-social.php:11
+msgid "Display your social profile"
+msgstr "Hiển thị hồ sơ mạng xã hội của bạn"
+
+#: widgets/class-airi-recent-posts.php:142
+msgid "Display post date?"
+msgstr "Hiển thị ngày đăng?"
+
+#: widgets/class-airi-recent-posts.php:138
+msgid "Number of posts to show:"
+msgstr "Số bài viết được hiển thị:"
+
+#: widgets/class-airi-social.php:56 widgets/class-airi-recent-posts.php:135
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: widgets/class-airi-recent-posts.php:23
+msgid "Airi: Recent Posts"
+msgstr "Airi: Bài vừa đăng:"
+
+#: widgets/class-airi-recent-posts.php:20
+msgid "Recent posts with thumbnails."
+msgstr "Bài viết gần đây với hình thu nhỏ."
+
+#: tribe/events/v2/widgets/widget-events-list.php:134
+#: tribe-events/widgets/list-widget.php:125
+msgid "There are no upcoming %s at this time."
+msgstr "Không có %s sắp tới tại thời điểm này."
+
+#: widgets/class-airi-social.php:59
+msgid "In order to display your social icons in a widget, all you need to do is go to <strong>Appearance > Menus</strong> and create a menu containing links to your social profiles, then assign that menu here. Supported networks: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+msgstr "Để hiển thị các biểu tượng xã hội của bạn trong một widget, tất cả những gì bạn cần làm là vào <strong>Giao diện> Menu</strong> và tạo một menu chứa các liên kết đến hồ sơ xã hội của bạn, sau đó gán menu đó tại đây. Các mạng được hỗ trợ: Facebook, Twitter, Google Plus, Instagram, Dribble, Vimeo, Linkedin, Youtube, Flickr, Pinterest, Tumblr, Foursquare, Behance."
+
+#: tribe/events/v2/widgets/widget-events-list.php:123
+#: tribe-events/widgets/list-widget.php:114
+msgid "See this event"
+msgstr "Xem sự kiện này"
+
+#: template-parts/menus/menu-menuStyle6.php:38
+#: template-parts/menus/menu-menuStyle3.php:60
+#: template-parts/menus/menu-menuStyle2.php:20
+#: template-parts/menus/menu-menuStyle5.php:20
+#: template-parts/menus/menu-menuStyle1.php:20
+#: template-parts/menus/menu-menuStyle4.php:30
+msgid "Toggle mobile menu"
+msgstr "Nút bật menu cho di động"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single-2.php:66
+#: template-parts/content-single-3.php:66 template-parts/content-single.php:54
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Đọc tiếp<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: template-parts/content-single-2.php:77
+#: template-parts/content-single-3.php:77 template-parts/content-single.php:65
+#: template-parts/content-page.php:24
+msgid "Pages:"
+msgstr "Trang:"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Có vẻ như chúng tôi không thể tìm thấy những gì bạn đang tìm kiếm. Hãy thử lại bằng chức năng tìm kiếm."
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, không có nội dung nào khớp với yêu cầu tìm kiếm của bạn. Hãy thử lại với các từ khóa khác."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng để đăng bài viết đầu tiên của bạn? <a href=\"%1$s\">Bắt đầu tại đây</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Không có kết quả"
+
+#. translators: %s: search query.
+#: search.php:24
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm cho từ khóa: %s"
+
+#: learnpress/widgets/recent-courses/default.php:85
+msgid "%d lesson"
+msgstr "Bài học %d"
+
+#: learnpress/widgets/recent-courses/default.php:85
+msgid "%d lessons"
+msgstr "Bài học %d"
+
+#: learnpress/widgets/recent-courses/default.php:24
+msgid "No courses"
+msgstr "Không có khóa học nào"
+
+#: inc/woocommerce.php:215
+msgid "View your shopping cart"
+msgstr "Xem giỏ hàng của bạn"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cài đặt plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Tất cả đã được cài đặt thành công."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "Cài đặt %1$s thành công."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Tiến trình cài đặt đang bắt đầu. Tiến trình này có thể cần nhiều thời gian để hoàn tất, vì vậy hãy kiên nhẫn."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang Cài đặt và Kích hoạt Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Tất cả các cài đặt và kích hoạt đã hoàn tất."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ẩn chi tiết"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Hiện chi tiết"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s được cài đặt và kích hoạt thành công."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Quá trình cài đặt và kích hoạt đang bắt đầu. Tiến trình này có thể cần nhiều thời gian để hoàn tất, vì vậy hãy kiên nhẫn."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Quá trình cài đặt %1$s thất bại."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Đã xảy ra lỗi khi cài đặt %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Cập nhật Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Kích hoạt plugin không thành công."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Không có plugin nào có sẵn để được kích hoạt tại thời điểm này."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Không có plugin nào có sẵn để được cập nhật tại thời điểm này."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Không có plugin nào có sẵn để cài đặt tại thời điểm này."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Không có plugin nào được chọn để cập nhật. Không có hành động nào xảy ra."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Không có plugin nào được chọn để kích hoạt. Không có hành động nào xảy ra."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Không có plugin nào được chọn để cài đặt. Không có hành động nào xảy ra."
+
+#: inc/onboarding/plugins/class-airi-recommended-plugins.php:92
+#: inc/onboarding/plugins/class-airi-recommended-plugins.php:112
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Cập nhật"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Cài đặt"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Thông báo nâng cấp từ tác giả plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Kích hoạt %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Cập nhật %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Cài đặt %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Stairis"
+msgstr "Stairis"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Phiên bản"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Loại"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Nguồn"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Không có plugin để cài đặt, cập nhật hoặc kích hoạt."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Phiên bản có sẵn:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Yêu cầu phiên bản tối thiểu:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Phiên bản đã cài đặt:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "Không rõ"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Kích hoạt <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Có phiên bản mới <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Cài đặt <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tất cả <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install stairis, 2: update stairis
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Stairis"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Cập nhật được đề xuất"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Yêu cầu cập nhật"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Yêu cầu cập nhật không có sẵn"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Kích hoạt"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Cài đặt nhưng chưa Kích hoạt"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Chưa cài đặt"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Đóng gói sẵn"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Nguồn bên ngoài"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Kho WordPress"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Được đề xuất"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Đã kích hoạt lại thành công plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Trờ về bảng điều khiển"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Trờ về Trình Cài đặt Plugin Yêu cầu"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Bắt đầu kích hoạt plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Bắt đầu cập nhật plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Bắt đầu cài đặt plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Có gì đó không đúng với API của plugin."
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Đang cập nhật plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Đang cài đặt plugin: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Cài đặt Plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Cài đặt các plugin được yêu cầu"
+
+#. translators: 1: comment count number, 2: title.
+#: inc/template-tags.php:197
+msgctxt "comments title"
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] "bình luận %1$s"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:88 template-parts/content-page.php:37
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Sửa <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post title
+#: inc/template-tags.php:71
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Đăng bình luận<span class=\"screen-reader-text\"> trong %s</span>"
+
+#: inc/customizer/options/section-typography.php:240
+msgid "Post titles (singles)"
+msgstr "Tiêu đề bài viết (đơn)"
+
+#: inc/customizer/options/section-typography.php:219
+msgid "Post titles (archives)"
+msgstr "Tiêu đề bài viết (lưu trữ)"
+
+#: inc/customizer/options/section-typography.php:116
+msgid "Header area"
+msgstr "Vùng tiêu đề"
+
+#: inc/customizer/options/section-typography.php:71
+msgid "Font sizes"
+msgstr "Kích cỡ chữ"
+
+#: inc/customizer/options/section-typography.php:49
+#: inc/customizer/options/section-typography.php:88
+msgid "Body"
+msgstr "Phần thân"
+
+#: inc/customizer/options/section-typography.php:27
+msgid "Headings"
+msgstr "Tiêu đề"
+
+#: inc/customizer/options/section-typography.php:18
+msgid "Font families"
+msgstr "Bộ phông chữ"
+
+#: inc/customizer/options/section-typography.php:10
+msgid "Typography"
+msgstr "Kiểu chữ"
+
+#: inc/customizer/options/section-header.php:427
+#: template-parts/menus/menu-menuStyle4.php:14
+msgid "9-18 Mon-Fri"
+msgstr "9-18 Thứ Hai-Thứ Sáu"
+
+#: inc/customizer/options/section-header.php:413
+#: inc/customizer/options/section-header.php:425
+#: template-parts/menus/menu-menuStyle4.php:13
+msgid "Opening hours"
+msgstr "Giờ mở cửa"
+
+#: inc/customizer/options/section-header.php:411
+msgid "Above opening hours"
+msgstr "Về giờ mở cửa"
+
+#: inc/customizer/options/section-header.php:385
+#: template-parts/menus/menu-menuStyle4.php:12
+msgid "Brooklyn Street"
+msgstr "Đường Brooklyn"
+
+#: inc/customizer/options/section-header.php:383
+msgid "Your address"
+msgstr "Địa chỉ của bạn"
+
+#: inc/customizer/options/section-header.php:369
+msgid "Above address text"
+msgstr "Phía trên dòng địa chỉ"
+
+#: inc/customizer/options/section-header.php:329
+#: template-parts/menus/menu-menuStyle4.php:9
+msgid "Call us"
+msgstr "Gọi cho chúng tôi"
+
+#: inc/customizer/options/section-header.php:40
+msgid "Not contained"
+msgstr "Không bao gồm"
+
+#: inc/customizer/options/section-header.php:39
+msgid "Contained"
+msgstr "Bao gồm"
+
+#: inc/customizer/options/section-header.php:35
+msgid "Menu width"
+msgstr "Độ rộng menu"
+
+#: inc/customizer/options/section-header.php:27
+msgid "Basic 2 - outside header"
+msgstr "Cơ bản 2 - tiêu đề phía ngoài"
+
+#: inc/customizer/options/section-header.php:26
+msgid "Basic 1 - inside header"
+msgstr "Cơ bản 1 - tiêu đề phía trong"
+
+#: inc/customizer/options/section-header.php:22
+msgid "Menu type"
+msgstr "Loại Menu"
+
+#: inc/customizer/options/section-header.php:15
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/customizer/options/section-footer.php:25
+msgid "4"
+msgstr "4"
+
+#: inc/customizer/options/section-footer.php:24
+msgid "3"
+msgstr "3"
+
+#: inc/customizer/options/section-footer.php:23
+msgid "2"
+msgstr "2"
+
+#: inc/customizer/options/section-footer.php:22
+msgid "1"
+msgstr "1"
+
+#: inc/customizer/options/section-footer.php:17
+msgid "Footer widget areas"
+msgstr "Khu vực Widget Chân trang"
+
+#: inc/customizer/options/section-footer.php:10
+msgid "Footer"
+msgstr "Cuối trang"
+
+#: inc/customizer/options/section-colors.php:2059
+msgid "Widget links"
+msgstr "Widget links"
+
+#: inc/customizer/options/section-colors.php:2044
+msgid "Widget text"
+msgstr "Chữ Widget"
+
+#: inc/customizer/options/section-colors.php:233
+#: inc/customizer/options/section-colors.php:465
+#: inc/customizer/options/section-colors.php:852
+#: inc/customizer/options/section-colors.php:1374
+#: inc/customizer/options/section-colors.php:1777
+msgid "Background color (sticky)"
+msgstr "Màu nền (dính)"
+
+#: inc/customizer/options/section-colors.php:163
+#: inc/customizer/options/section-colors.php:390
+#: inc/customizer/options/section-colors.php:777
+#: inc/customizer/options/section-colors.php:1299
+#: inc/customizer/options/section-colors.php:1703
+msgid "Top level menu items (sticky)"
+msgstr "Các mục menu cấp cao nhất (dính)"
+
+#: inc/customizer/options/section-colors.php:142
+#: inc/customizer/options/section-colors.php:369
+#: inc/customizer/options/section-colors.php:756
+#: inc/customizer/options/section-colors.php:970
+#: inc/customizer/options/section-colors.php:1274
+#: inc/customizer/options/section-colors.php:1678
+#: inc/customizer/options/section-typography.php:166
+msgid "Top level menu items"
+msgstr "Các mục menu cấp cao nhất"
+
+#: inc/customizer/options/section-colors.php:121
+#: inc/customizer/options/section-colors.php:348
+#: inc/customizer/options/section-colors.php:735
+#: inc/customizer/options/section-colors.php:1253
+#: inc/customizer/options/section-colors.php:1657
+msgid "Site description (sticky)"
+msgstr "Mô tả trang (dính)"
+
+#: inc/customizer/options/section-colors.php:100
+#: inc/customizer/options/section-colors.php:327
+#: inc/customizer/options/section-colors.php:714
+#: inc/customizer/options/section-colors.php:925
+#: inc/customizer/options/section-colors.php:1232
+#: inc/customizer/options/section-colors.php:1636
+#: inc/customizer/options/section-typography.php:144
+msgid "Site description"
+msgstr "Mô tả trang"
+
+#: inc/customizer/options/section-colors.php:79
+#: inc/customizer/options/section-colors.php:306
+#: inc/customizer/options/section-colors.php:693
+#: inc/customizer/options/section-colors.php:1211
+#: inc/customizer/options/section-colors.php:1615
+msgid "Site title (sticky)"
+msgstr "Tiêu đề trang (dính)"
+
+#: inc/customizer/options/section-colors.php:58
+#: inc/customizer/options/section-colors.php:285
+#: inc/customizer/options/section-colors.php:672
+#: inc/customizer/options/section-colors.php:904
+#: inc/customizer/options/section-colors.php:1190
+#: inc/customizer/options/section-colors.php:1594
+#: inc/customizer/options/section-typography.php:122
+msgid "Site title"
+msgstr "Tiêu đề trang"
+
+#: inc/customizer/options/section-colors.php:48
+msgid "Different color options show up here, based on the type of menu you select from the Header > Menu section"
+msgstr "Các tùy chọn màu khác nhau hiển thị ở đây, dựa trên loại menu bạn chọn từ phần Tiêu đề> Menu"
+
+#: inc/customizer/options/section-colors.php:46
+#: inc/customizer/options/section-header.php:10
+msgid "Header"
+msgstr "Tiêu đề"
+
+#: inc/customizer/options/section-colors.php:22
+msgid "Primary color"
+msgstr "Màu chính"
+
+#: inc/customizer/options/section-colors.php:13
+msgid "Colors"
+msgstr "Màu sắc"
+
+#: inc/customizer/options/section-blog.php:114
+msgid "No sidebar"
+msgstr "Không có thanh bên"
+
+#: inc/customizer/options/section-blog.php:109
+msgid "Single post layout"
+msgstr "Bố cục bài viết đơn"
+
+#: inc/customizer/options/section-blog.php:102
+msgid "Single posts"
+msgstr "Bài viết"
+
+#: inc/customizer/options/section-blog.php:91
+msgid "Hide comments number?"
+msgstr "Ẩn số comment"
+
+#: inc/customizer/kirki/include-kirki.php:56
+msgid "Install Now"
+msgstr "Cài đặt ngay"
+
+#: inc/customizer/kirki/include-kirki.php:55
+msgid "Install Kirki Toolkit now"
+msgstr "Cài Kirki Toolkit ngay"
+
+#: inc/customizer/kirki/include-kirki.php:54
+msgid "A plugin is required to take advantage of this theme's features in the customizer."
+msgstr "Cần có một plugin để tận dụng các tính năng tùy biến của chủ đề này."
+
+#: inc/customizer/customizer.php:17
+#: inc/customizer/options/section-typography.php:82
+msgid "General"
+msgstr "Tổng quan"
+
+#: inc/compatibility/learnpress.php:14
+msgid "Free"
+msgstr "Miễn phí"
+
+#: inc/compatibility/elementor/skins/class-airi-image-icon-box-skin.php:26
+msgid "General color"
+msgstr "Màu tổng thể"
+
+#: inc/compatibility/elementor/skins/class-airi-image-icon-box-skin.php:19
+msgid "List style"
+msgstr "Kiểu danh sách"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:105
+msgid "Marker"
+msgstr "Đánh dấu"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:68
+msgid "Please go here %s to get your Google Maps API Key."
+msgstr "Vui lòng truy cập vào đây %s để nhận Mã API Google Maps của bạn."
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:63
+msgid "API key"
+msgstr "Mã API"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:55
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:68
+msgid "here"
+msgstr "ở đây"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:55
+msgid "Please go here %s to find the latitude and longitute for your address."
+msgstr "Vui lòng vào đây %s để tìm vĩ độ và kinh độ cho địa chỉ của bạn."
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:91
+msgid "Longitude"
+msgstr "Kinh độ"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:78
+msgid "Latitude"
+msgstr "Vĩ độ"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:50
+msgid "Note"
+msgstr "Ghi chú"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:130
+msgid "Post Title"
+msgstr "Tiêu đề bài viết"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:121
+msgid "Content"
+msgstr "Nội dung"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:107
+msgid "Number of posts"
+msgstr "Số bài viết"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:94
+msgid "Select your categories"
+msgstr "Chọn danh mục"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:85
+#: inc/customizer/options/section-colors.php:1920
+#: inc/customizer/options/section-blog.php:12
+#: inc/customizer/options/section-typography.php:213
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:40
+msgid "aThemes: Blog"
+msgstr "aThemes: Blog"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Chuyển đến phần nội dung"
+
+#: functions.php:234
+msgid "Airi Elements"
+msgstr "Thành phần của Airi"
+
+#: functions.php:125
+msgid "Footer "
+msgstr "Chân trang"
+
+#: functions.php:114
+msgid "Add widgets here."
+msgstr "Thêm widgets vào đây"
+
+#: inc/customizer/options/section-typography.php:265 functions.php:112
+msgid "Sidebar"
+msgstr "Thanh bên"
+
+#: functions.php:53
+msgid "Primary"
+msgstr "Chính"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Đã đóng bình luận."
+
+#. translators: 1: comment count number
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s comments"
+msgid_plural "%1$s comments"
+msgstr[0] "%1$s Bình luận"
+
+#. translators: 1: title.
+#: comments.php:34 inc/template-tags.php:193
+msgid "1 comment"
+msgstr "1 Bình luận"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Yêu cầu"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "và"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Gói plugin từ xa bao gồm nhiều hơn một tập tin, nhưng các tập tin không được đóng gói trong một thư mục."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Vui lòng liên hệ với nhà cung cấp plugin và yêu cầu họ đóng gói plugin theo hướng dẫn của WordPress."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Gói plugin từ xa không chứa thư mục với slug mong muốn và đổi tên không hoạt động."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Yêu cầu cập nhật"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin này cần được cập nhật để tương thích với chủ đề của bạn."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Vui lòng liên hệ với quản trị viên của trang web để được giúp đỡ."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Có một hoặc nhiều plugin cần thiết hoặc được đề xuất cần cài đặt, cập nhật hoặc kích hoạt."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Bỏ qua thông báo này "
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tất cả các plugin được cài đặt và kích hoạt thành công. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin không được kích hoạt. Cần một phiên bản cao hơn của %s cho chủ đề này. Vui lòng cập nhật plugin."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Không có hành động nào xảy ra. Plugin %1$s đã hoạt động."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Các plugin sau đã được kích hoạt thành công:"
+
+#: inc/customizer/options/section-header.php:327
+msgid "Above phone number text"
+msgstr "Phía trên dòng số điện thoại"
+
+#: inc/customizer/options/section-header.php:243
+#: inc/customizer/options/section-header.php:341
+msgid "Phone number"
+msgstr "Số điện thoại"
+
+#: inc/customizer/options/section-header.php:214
+msgid "Email address"
+msgstr "Địa chỉ email"
+
+#: inc/customizer/options/section-header.php:191
+msgid "Social profile URL"
+msgstr "URL Mạng xã hội"
+
+#: inc/customizer/options/section-header.php:163
+#: inc/customizer/options/section-header.php:186
+msgid "Social network"
+msgstr "Mạng xã hội"
+
+#: inc/customizer/options/section-header.php:159
+msgid "Available for menu types Extended 1"
+msgstr "Có sẵn cho các loại menu Mở rộng 1"
+
+#: inc/customizer/options/section-header.php:158
+msgid "Social links"
+msgstr "Liên kết mạng xã hội"
+
+#: inc/customizer/options/section-header.php:108
+#: inc/customizer/options/section-header.php:301 inc/template-functions.php:109
+msgid "http://example.org/contact/"
+msgstr "http://example.org/contact/"
+
+#: inc/customizer/options/section-header.php:106
+#: inc/customizer/options/section-header.php:299
+msgid "Call to action URL"
+msgstr "URL Kêu gọi hành động"
+
+#: inc/customizer/options/section-header.php:94
+#: inc/customizer/options/section-header.php:287 inc/template-functions.php:108
+#: template-parts/menus/menu-menuStyle4.php:15
+msgid "Get a quote"
+msgstr "Nhận báo giá"
+
+#: inc/customizer/options/section-header.php:92
+#: inc/customizer/options/section-header.php:285
+msgid "Call to action text"
+msgstr "Chữ kêu gọi hành động"
+
+#: inc/customizer/options/section-header.php:67
+msgid "*Extended 1* menu options"
+msgstr "*Mở rộng 1* tùy chọn menu"
+
+#: inc/customizer/options/section-header.php:58
+msgid "Static menu"
+msgstr "Menu tĩnh"
+
+#: inc/customizer/options/section-header.php:53
+#: inc/customizer/options/section-header.php:57
+msgid "Sticky menu"
+msgstr "Menu dính"
+
+#: inc/customizer/options/section-colors.php:517
+msgid "Top bar background"
+msgstr "Nền thanh trên cùng"
+
+#: inc/customizer/options/section-blog.php:75
+#: inc/customizer/options/section-blog.php:160
+msgid "Hide post categories?"
+msgstr "Ẩn danh mục bài viết?"
+
+#: inc/customizer/options/section-blog.php:83
+#: inc/customizer/options/section-blog.php:168
+msgid "Hide post author?"
+msgstr "Ẩn tác giả bài viết?"
+
+#: inc/customizer/options/section-blog.php:67
+#: inc/customizer/options/section-blog.php:152
+msgid "Hide post date?"
+msgstr "Ẩn ngày bài viết?"
+
+#: inc/customizer/options/section-blog.php:59
+#: inc/customizer/options/section-blog.php:144
+msgid "Hide post thumbnail?"
+msgstr "Ẩn hình thu nhỏ bài viết?"
+
+#: inc/customizer/options/section-blog.php:52
+#: theme-dashboard/class-theme-dashboard.php:393
+#: theme-dashboard/class-theme-dashboard.php:413
+#: theme-dashboard/class-theme-dashboard.php:433
+#: template-parts/content-list-2.php:11 template-parts/content-search.php:11
+#: template-parts/content.php:11
+msgid "Read more"
+msgstr "Xem thêm"
+
+#: inc/customizer/options/section-blog.php:50
+msgid "Leave empty to hide"
+msgstr "Để trống để ẩn"
+
+#: inc/customizer/options/section-blog.php:49
+msgid "Read more text"
+msgstr "Xem thêm chữ"
+
+#: inc/customizer/options/section-blog.php:36
+msgid "Excerpt length"
+msgstr "Độ dài đoạn trích"
+
+#: inc/customizer/options/section-blog.php:28
+msgid "Grid"
+msgstr "Dạng lưới"
+
+#: inc/customizer/options/section-blog.php:27
+#: inc/customizer/options/section-blog.php:113
+#: inc/customizer/options/section-blog.php:124
+#: inc/customizer/options/section-blog.php:136
+msgid "Default"
+msgstr "Mặc định"
+
+#: inc/customizer/options/section-blog.php:23
+msgid "Blog layout"
+msgstr "Bố cục bài blog"
+
+#: inc/customizer/options/section-blog.php:16
+msgid "Index&amp;archives"
+msgstr "Mục lục&amp;lưu trữ"
+
+#: inc/customizer/kirki/include-kirki.php:61
+msgid "Activate Now"
+msgstr "Kích hoạt ngay"
+
+#: inc/customizer/kirki/include-kirki.php:60
+msgid "Activate Kirki Toolkit now"
+msgstr "Kích hoạt Kirki Toolkit ngay"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-3.php:39
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-3.php:72
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin.php:41
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-2.php:41
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-2.php:74
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-4.php:40
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-6.php:40
+#: inc/compatibility/elementor/blocks/block-blog.php:139
+#: inc/compatibility/elementor/blocks/block-blog.php:175
+#: inc/compatibility/elementor/blocks/block-blog.php:234
+#: inc/compatibility/elementor/blocks/block-blog.php:298
+msgid "Color"
+msgstr "Màu sắc"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try searching?"
+msgstr "Không thể tìm thấy dữ liệu cần thiết tại đây. Hãy thử tìm kiếm?"
+
+#: 404.php:17
+msgid "404"
+msgstr "404"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:61
+msgid "Tagged %1$s"
+msgstr "Đã gắn thẻ %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:58
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post author.
+#: inc/template-tags.php:41
+msgctxt "post author"
+msgid "by %s"
+msgstr "bởi %s"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: inc/template-functions.php:308
+msgid "Theme: %2$s by %1$s."
+msgstr "Chủ đề: %2$s bởi %1$s."
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: inc/template-functions.php:303
+msgid "Proudly powered by %s"
+msgstr "Tự hào được cung cấp bởi %s"
+
+#: inc/template-functions.php:301
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/template-functions.php:267
+msgid "Edit"
+msgstr "Sửa"
+
+#: inc/template-functions.php:260
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang chờ kiểm duyệt."
+
+#: inc/template-functions.php:251
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s lúc %2$s"
+
+#: inc/customizer/options/section-typography.php:367
+msgid "Footer credits"
+msgstr "Dấu hiệu cuối trang"
+
+#: inc/customizer/options/section-typography.php:345
+msgid "Footer widgets text"
+msgstr "Văn bản khu vực widget chân trang"
+
+#: inc/customizer/options/section-typography.php:323
+msgid "Footer widget titles"
+msgstr "Tiêu đề khu vực widget chân trang"
+
+#: inc/customizer/options/section-typography.php:317
+msgid "Footer area"
+msgstr "Khu vực chân trang"
+
+#: inc/customizer/options/section-typography.php:292
+msgid "Widgets text"
+msgstr "Chữ trong widget"
+
+#: inc/customizer/options/section-header.php:260
+msgid "*Extended 2* menu options"
+msgstr "*Mở rộng 2* tùy chọn menu"
+
+#: inc/customizer/options/section-colors.php:2029
+#: inc/customizer/options/section-typography.php:271
+msgid "Widget titles"
+msgstr "Tiêu đề widget"
+
+#: inc/customizer/options/section-colors.php:2021
+msgid "Sidebar&amp;footer widgets"
+msgstr "Thanh bên&amp;widget chân trang"
+
+#: inc/customizer/options/section-colors.php:1998
+msgid "Body text"
+msgstr "Chữ phần thân bài"
+
+#: inc/customizer/options/section-colors.php:1984
+msgid "Meta links"
+msgstr "Liên kết Meta"
+
+#: inc/customizer/options/section-colors.php:1970
+msgid "Meta text"
+msgstr "Chữ Meta"
+
+#: inc/customizer/options/section-colors.php:1956
+msgid "Categories (single and archives)"
+msgstr "Danh mục (đơn và lưu trữ)"
+
+#: inc/customizer/options/section-colors.php:1942
+msgid "Post title (single)"
+msgstr "Tiêu đề bài viết (đơn)"
+
+#: inc/customizer/options/section-colors.php:1928
+msgid "Post title (archives)"
+msgstr "Tiêu đề bài viết (lưu trữ)"
+
+#: inc/customizer/options/section-colors.php:1889
+msgid "Submenu background"
+msgstr "Nền menu phụ"
+
+#: inc/customizer/options/section-colors.php:1875
+#: inc/customizer/options/section-typography.php:188
+msgid "Submenu items"
+msgstr "Thành phần menu phụ"
+
+#: inc/customizer/options/section-colors.php:1092
+msgid "Contact blocks - bottom line"
+msgstr "Phần liên lạc - dòng cuối cùng"
+
+#: inc/customizer/options/section-colors.php:1068
+msgid "Contact blocks - top line"
+msgstr "Phần liên lạc - dòng trên cùng"
+
+#: inc/customizer/options/section-colors.php:946
+msgid "Menu background color"
+msgstr "Màu nền Menu"
+
+#: inc/customizer/options/section-colors.php:538
+msgid "Top bar color"
+msgstr "Màu thanh trên cùng"
+
+#: inc/customizer/kirki/include-kirki.php:59
+msgid "You have installed Kirki. Activate it to take advantage of this theme's features in the customizer."
+msgstr "Bạn đã cài đặt Kirki. Kích hoạt nó để tận dụng các tính năng của chủ đề này trong tùy biến."
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:33
+#: inc/customizer/options/section-header.php:371
+#: template-parts/menus/menu-menuStyle4.php:11
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:28
+msgid "London Eye, London, United Kingdom"
+msgstr "London Eye, London, United Kingdom"
+
+#: inc/compatibility/elementor/skins/class-airi-google-maps-skin.php:22
+msgid "Airi map"
+msgstr "Airi map"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin.php:106
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin.php:123
+msgid "Read more >>"
+msgstr "Đọc tiếp >>"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin.php:29
+msgid "Read more link"
+msgstr "Xem thêm liên kết"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin.php:20
+msgid "Style 2"
+msgstr "Kiểu 2"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-4.php:20
+msgid "Style 5"
+msgstr "Kiểu 5"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-3.php:19
+msgid "Style 4"
+msgstr "Kiểu 4"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-3.php:61
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-2.php:63
+msgid "Comments"
+msgstr "Bình luận"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-2.php:20
+msgid "Style 3"
+msgstr "Kiểu 3"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:286
+msgid "Author"
+msgstr "Tác giả"
+
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-3.php:28
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-2.php:30
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-4.php:29
+#: inc/compatibility/elementor/skins/class-airi-athemes-blog-skin-6.php:29
+#: inc/compatibility/elementor/blocks/block-blog.php:222
+msgid "Category"
+msgstr "Danh mục"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:191
+#: inc/compatibility/elementor/blocks/block-blog.php:253
+#: inc/customizer/options/section-colors.php:209
+#: inc/customizer/options/section-colors.php:441
+#: inc/customizer/options/section-colors.php:828
+#: inc/customizer/options/section-colors.php:1016
+#: inc/customizer/options/section-colors.php:1350
+#: inc/customizer/options/section-colors.php:1753
+msgid "Background color"
+msgstr "Màu nền"
+
+#: inc/compatibility/elementor/blocks/block-blog.php:166
+msgid "Date"
+msgstr "Ngày"
+
+#. Author URI of the theme
+msgid "https://athemes.com"
+msgstr "https://athemes.com"
+
+#. Author of the theme
+#: theme-dashboard/class-theme-dashboard.php:540
+msgid "aThemes"
+msgstr "aThemes"
+
+#. Theme URI of the theme
+msgid "https://athemes.com/theme/airi"
+msgstr "https://athemes.com/theme/airi"

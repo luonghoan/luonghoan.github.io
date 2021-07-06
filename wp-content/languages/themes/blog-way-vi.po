@@ -1,0 +1,910 @@
+# Translation of Themes - Blog Way in Vietnamese
+# This file is distributed under the same license as the Themes - Blog Way package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-12 03:02:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Blog Way\n"
+
+#. Description of the theme
+msgid "Blog way is minimal blog theme. This responsive theme is best to use for blog, travel, informative and life style coaches. It comes with option to change color of entire site, author profile widget, social links to connect with social networking sites and more. It supports Woo-commerce and can be used for perfect e-Commerce sites too. Official Support Forum: https://www.prodesigns.com/wordpress-themes/support/item/blogway/ Full Demo: https://www.prodesigns.com/wordpress-themes/demo/blog-way/ Shop Demo: https://www.prodesigns.com/wordpress-themes/demo/blog-way/shop/"
+msgstr "Blog cách là chủ đề blog tối thiểu. Chủ đề đáp ứng này là tốt nhất để sử dụng cho các huấn luyện viên blog, du lịch, thông tin và phong cách sống. Nó đi kèm với tùy chọn để thay đổi màu sắc của toàn bộ trang web, widget tiểu sử tác giả, liên kết xã hội để kết nối với các trang web mạng xã hội và hơn thế nữa. Nó hỗ trợ Woo-commerce và có thể được sử dụng cho các trang web thương mại điện tử hoàn hảo. Diễn đàn hỗ trợ chính thức: https://www.prodesigns.com/wordpress-themes/support/item/blogway/ Toàn bộ bản trình diễn: https://www.prodesigns.com/wordpress-themes/demo/blog-way/ Cửa hàng giới thiệu: https://www.prodesigns.com/wordpress-themes/demo/blog-way/shop/"
+
+#. Theme Name of the theme
+#: inc/theme-info/class-about.php:700
+msgid "Blog Way"
+msgstr "Blog Way"
+
+#: inc/options.php:419
+msgid "Post Listing Type"
+msgstr "Loại danh sách bài đăng"
+
+#: inc/options.php:423
+msgid "Default"
+msgstr "Mặc định"
+
+#: inc/options.php:424
+msgid "Full Image"
+msgstr "Hình ảnh đầy đủ"
+
+#: inc/options.php:436
+msgid "Enable Sticky Sidebar"
+msgstr "Bật Thanh bên Chú ý"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Trang có chiều rộng đầy đủ"
+
+#. Template Name of the theme
+msgid "Home Full Image"
+msgstr "Trang chủ Hình ảnh đầy đủ"
+
+#: inc/theme-info/about.php:38
+msgid "Buy Pro From Themeforest"
+msgstr "Mua Pro từ Themeforest"
+
+#: inc/defaults.php:102
+msgid "Related Posts"
+msgstr "Bài viết liên quan"
+
+#: inc/hooks.php:558
+msgid "About %s"
+msgstr "Về %s"
+
+#: inc/hooks.php:563
+msgid "View all posts by %s &rarr;"
+msgstr "Xem tất cả các bài viết của %s &rarr;"
+
+#: inc/options.php:406
+msgid "Blog Options"
+msgstr "Tùy chọn Blog"
+
+#: inc/options.php:508 inc/options.php:591
+msgid "Show Category"
+msgstr "Hiển thị danh mục"
+
+#: inc/options.php:523 inc/options.php:606
+msgid "Show Author"
+msgstr "Hiển thị tác giả"
+
+#: inc/options.php:538 inc/options.php:621
+msgid "Show Posted Date"
+msgstr "Hiển thị Ngày đăng"
+
+#: inc/options.php:562
+msgid "Single Post Options"
+msgstr "Tùy chọn bài đăng đơn"
+
+#: inc/options.php:576
+msgid "Show featured image"
+msgstr "Hiển thị hình ảnh nổi bật"
+
+#: inc/options.php:636
+msgid "Show Tags"
+msgstr "Hiển thị thẻ"
+
+#: inc/options.php:651
+msgid "Show Post Navigation"
+msgstr "Hiển thị điều hướng bài đăng"
+
+#: inc/options.php:666
+msgid "Show Author Information"
+msgstr "Hiển thị thông tin tác giả"
+
+#: inc/options.php:681
+msgid "Show Related Posts"
+msgstr "Hiển thị bài viết liên quan"
+
+#: inc/options.php:697
+msgid "Related Posts Text"
+msgstr "Bài viết liên quan"
+
+#: inc/theme-info/about.php:9 inc/theme-info/about.php:10
+msgid "About Blog Way"
+msgstr "Trong khoảng Blog Way"
+
+#. translators: 1: theme name
+#: inc/theme-info/about.php:16
+msgid "We hope this page will help you to setup %1$s with few clicks. We believe you will find it easy to use and perfect for your website development."
+msgstr "Chúng tôi hy vọng trang này sẽ giúp bạn thiết lập %1$s với vài cú nhấp chuột. Chúng tôi tin rằng bạn sẽ thấy nó dễ sử dụng và hoàn hảo cho việc phát triển trang web của bạn."
+
+#: inc/theme-info/about.php:21
+msgid "Theme Details"
+msgstr "Chi tiết chủ đề"
+
+#: inc/theme-info/about.php:25
+msgid "View Demo"
+msgstr "Xem bản trình diễn"
+
+#: inc/theme-info/about.php:29 inc/theme-info/about.php:101
+msgid "View Documentation"
+msgstr "Xem tài liệu"
+
+#: inc/theme-info/about.php:34
+msgid "Rate This Theme"
+msgstr "Xếp hạng chủ đề này"
+
+#: inc/theme-info/about.php:46
+msgid "Getting Started"
+msgstr "Bắt đầu"
+
+#: inc/theme-info/about.php:47 inc/theme-info/about.php:65
+msgid "Recommended Actions"
+msgstr "Hành động được đề xuất"
+
+#: inc/theme-info/about.php:48
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: inc/theme-info/class-about.php:603 inc/theme-info/about.php:49
+#: inc/theme-info/about.php:140
+msgid "Upgrade to Pro"
+msgstr "Nâng cấp lên Pro"
+
+#: inc/theme-info/about.php:50
+msgid "FREE VS. PRO"
+msgstr "MIỄN PHÍ VS. PRO"
+
+#: inc/theme-info/about.php:56 inc/theme-info/about.php:98
+msgid "Theme Documentation"
+msgstr "Tài liệu chủ đề"
+
+#: inc/theme-info/about.php:57
+msgid "Find step by step instructions with video documentation to setup theme easily."
+msgstr "Tìm hướng dẫn từng bước với tài liệu video để thiết lập chủ đề dễ dàng."
+
+#: inc/theme-info/about.php:58
+msgid "View documentation"
+msgstr "Xem tài liệu"
+
+#: inc/theme-info/about.php:66
+msgid "We recommend few steps to take so that you can get complete site like shown in demo."
+msgstr "Chúng tôi khuyên bạn nên thực hiện một vài bước để bạn có thể có được trang web hoàn chỉnh như được hiển thị trong bản trình diễn."
+
+#: inc/theme-info/about.php:67
+msgid "Check recommended actions"
+msgstr "Kiểm tra các hành động được đề xuất"
+
+#: inc/theme-info/about.php:74
+msgid "Customize Everything"
+msgstr "Tùy chỉnh mọi thứ"
+
+#: inc/theme-info/about.php:75
+msgid "Start customizing every aspect of the website with customizer."
+msgstr "Bắt đầu tùy chỉnh mọi khía cạnh của trang web với tùy biến."
+
+#: inc/theme-info/about.php:76
+msgid "Go to Customizer"
+msgstr "Chuyển đến Trình tùy chỉnh"
+
+#: inc/theme-info/about.php:89 inc/theme-info/about.php:92
+msgid "Contact Support"
+msgstr "Liên hệ hỗ trợ"
+
+#: inc/theme-info/about.php:91
+msgid "If you have any problem, feel free to create ticket on our dedicated Support forum."
+msgstr "Nếu bạn có bất kỳ vấn đề gì, vui lòng tạo vé trên diễn đàn Hỗ trợ riêng của chúng tôi."
+
+#: inc/theme-info/about.php:100
+msgid "Kindly check our theme documentation for detailed information and video instructions."
+msgstr "Vui lòng kiểm tra tài liệu chủ đề của chúng tôi để biết thông tin chi tiết và hướng dẫn bằng video."
+
+#: inc/theme-info/about.php:107
+msgid "Pro Version"
+msgstr "Phiên bản chuyên nghiệp"
+
+#: inc/theme-info/about.php:110
+msgid "Upgrade to pro version for additional features and options."
+msgstr "Nâng cấp lên phiên bản chuyên nghiệp để có các tính năng và tùy chọn bổ sung."
+
+#: inc/theme-info/about.php:111
+msgid "View Pro Version"
+msgstr "Xem phiên bản Pro"
+
+#: inc/theme-info/about.php:117 inc/theme-info/about.php:120
+msgid "Customization Request"
+msgstr "Yêu cầu tùy chỉnh"
+
+#: inc/theme-info/about.php:119
+msgid "We have dedicated team members for theme customization. Feel free to contact us any time if you need any customization service."
+msgstr "Chúng tôi có các thành viên nhóm chuyên dụng để tùy chỉnh chủ đề. Hãy liên hệ với chúng tôi bất kỳ lúc nào nếu bạn cần bất kỳ dịch vụ tùy biến nào."
+
+#: inc/theme-info/about.php:126
+msgid "Child Theme"
+msgstr "Chủ đề trẻ em"
+
+#: inc/theme-info/about.php:128
+msgid "If you want to customize theme file, you should use child theme rather than modifying theme file itself."
+msgstr "Nếu bạn muốn tùy chỉnh tập tin chủ đề, bạn nên sử dụng chủ đề con hơn là sửa đổi tập tin chủ đề của chính nó."
+
+#: inc/theme-info/about.php:129
+msgid "About child theme"
+msgstr "Giới thiệu về chủ đề con"
+
+#: inc/theme-info/about.php:139
+msgid "Upgrade to pro version for more exciting features and additional theme options."
+msgstr "Nâng cấp lên phiên bản chuyên nghiệp để có nhiều tính năng thú vị hơn và các tùy chọn chủ đề bổ sung."
+
+#: inc/theme-info/about.php:148
+msgid "Themeforest Item"
+msgstr "Mục theo chủ đề"
+
+#: inc/theme-info/about.php:149
+msgid "Available in themeforest"
+msgstr "Có sẵn trong themeforest"
+
+#: inc/theme-info/about.php:150 inc/theme-info/about.php:157
+#: inc/theme-info/about.php:196 inc/theme-info/about.php:203
+#: inc/theme-info/about.php:210 inc/theme-info/about.php:216
+msgid "no"
+msgstr "Không"
+
+#: inc/theme-info/about.php:151 inc/theme-info/about.php:158
+#: inc/theme-info/about.php:184 inc/theme-info/about.php:185
+#: inc/theme-info/about.php:190 inc/theme-info/about.php:191
+#: inc/theme-info/about.php:197 inc/theme-info/about.php:204
+#: inc/theme-info/about.php:211 inc/theme-info/about.php:217
+#: inc/theme-info/about.php:228
+msgid "yes"
+msgstr "Có"
+
+#: inc/theme-info/about.php:155
+msgid "Featured Slider"
+msgstr "Thanh trượt nổi bật"
+
+#: inc/theme-info/about.php:156
+msgid "Slider from category, tags, and pages"
+msgstr "Trượt từ danh mục, thẻ và trang"
+
+#: inc/theme-info/about.php:162
+msgid "Home Layout"
+msgstr "Trang chủ"
+
+#: inc/theme-info/about.php:163
+msgid "Variations of home page design"
+msgstr "Các biến thể của thiết kế trang chủ"
+
+#: inc/theme-info/about.php:164
+msgid "1"
+msgstr "1"
+
+#: inc/theme-info/about.php:165
+msgid "3"
+msgstr "3"
+
+#: inc/theme-info/about.php:169
+msgid "Custom Widgets"
+msgstr "Tiện ích tùy chỉnh"
+
+#: inc/theme-info/about.php:170
+msgid "Widgets added by theme to enhance features"
+msgstr "Tiện ích được thêm theo chủ đề để tăng cường các tính năng"
+
+#: inc/theme-info/about.php:171
+msgid "4"
+msgstr "4"
+
+#: inc/theme-info/about.php:172
+msgid "5"
+msgstr "5"
+
+#: inc/theme-info/about.php:177
+msgid "Google fonts options for changing the overall site fonts"
+msgstr "Các tùy chọn phông chữ của Google để thay đổi phông chữ trang web tổng thể"
+
+#: inc/theme-info/about.php:179
+msgid "100+"
+msgstr "100+"
+
+#: inc/theme-info/about.php:182
+msgid "Color Options"
+msgstr "Tùy chọn màu"
+
+#: inc/theme-info/about.php:183
+msgid "Options to change primary color of the site"
+msgstr "Các tùy chọn để thay đổi màu cơ bản của trang web"
+
+#: inc/theme-info/about.php:188
+msgid "WooCommerce Ready"
+msgstr "Sẵn sàng WooCommerce"
+
+#: inc/theme-info/about.php:189
+msgid "Theme supports/works with WooCommerce plugin"
+msgstr "Hỗ trợ chủ đề / làm việc với plugin WooCommerce"
+
+#: inc/theme-info/about.php:194
+msgid "Instagram Feeds"
+msgstr "Nguồn cấp dữ liệu Instagram"
+
+#: inc/theme-info/about.php:195
+msgid "Widget to display feeds from instagram account"
+msgstr "Widget để hiển thị nguồn cấp dữ liệu từ tài khoản instagram"
+
+#: inc/theme-info/about.php:201
+msgid "Social Icons in Header"
+msgstr "Biểu tượng xã hội trong tiêu đề"
+
+#: inc/theme-info/about.php:202
+msgid "Option to show social links in main header"
+msgstr "Tùy chọn hiển thị liên kết xã hội trong tiêu đề chính"
+
+#: inc/theme-info/about.php:208
+msgid "Hide Footer Credit"
+msgstr "Ẩn tín dụng chân trang"
+
+#: inc/theme-info/about.php:209
+msgid "Option to enable/disable Powerby(Designer) credit in footer"
+msgstr "Tùy chọn bật / tắt tín dụng Powerby (Designer) ở chân trang"
+
+#: inc/theme-info/about.php:214
+msgid "Override Footer Credit"
+msgstr "Ghi đè tín dụng chân trang"
+
+#: inc/theme-info/about.php:215
+msgid "Option to Override existing Powerby credit of footer"
+msgstr "Tùy chọn để ghi đè tín dụng Powerby hiện tại của chân trang"
+
+#: inc/theme-info/about.php:220
+msgid "SEO"
+msgstr "SEO"
+
+#: inc/theme-info/about.php:221
+msgid "Developed with high skilled SEO tools."
+msgstr "Được phát triển với các công cụ SEO có kỹ năng cao."
+
+#: inc/theme-info/about.php:226
+msgid "Support Forum"
+msgstr "Diễn đàn hỗ trợ"
+
+#: inc/theme-info/about.php:227
+msgid "Highly experienced and dedicated support team for your help plus online chat."
+msgstr "Đội ngũ hỗ trợ có kinh nghiệm và tận tụy với sự giúp đỡ của bạn cộng với trò chuyện trực tuyến."
+
+#: inc/theme-info/about.php:229
+msgid "High Priority"
+msgstr "Ưu tiên cao"
+
+#: inc/theme-info/class-about.php:164
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our %2$swelcome page%3$s."
+msgstr "Chào mừng bạn! Cảm ơn bạn về sự lựa chọn %1$s! Để tận dụng tối đa những gì tốt nhất, chủ đề của chúng tôi có thể cung cấp, hãy đảm bảo bạn truy cập vào %2$strang chào mừng%3$s."
+
+#: inc/theme-info/class-about.php:164
+msgid "Get started with %s"
+msgstr "Bắt đầu với %s"
+
+#: inc/theme-info/class-about.php:561
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Cài đặt"
+
+#: inc/theme-info/class-about.php:565
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: inc/theme-info/class-about.php:569
+msgid "Deactivate"
+msgstr "Tắt"
+
+#: inc/widgets/author-profile.php:245
+msgid "Read More"
+msgstr "Đọc tiếp"
+
+#: inc/widgets/author-profile.php:282
+msgid "Content Type:"
+msgstr "Loại nội dung:"
+
+#: inc/widgets/author-profile.php:295
+msgid "Excerpt Length:"
+msgstr "Độ dài trích đoạn:"
+
+#: inc/widgets/author-profile.php:299 inc/widgets/author-profile.php:307
+msgid "Works if content type equals to excerpt."
+msgstr "Hoạt động nếu loại nội dung bằng với đoạn trích."
+
+#: inc/widgets/author-profile.php:304
+msgid "Read More Text:"
+msgstr "Đọc thêm Văn bản:"
+
+#: inc/widgets/author-profile.php:369
+msgid "Full"
+msgstr "Đầy đủ"
+
+#: inc/widgets/author-profile.php:370
+msgid "Excerpt"
+msgstr "Tóm tắt"
+
+#: inc/widgets/extended-recent-posts.php:20
+msgid "Widget to display recent posts with thumbnail and date."
+msgstr "Widget để hiển thị các bài viết gần đây với hình thu nhỏ và ngày tháng."
+
+#: inc/widgets/extended-recent-posts.php:23
+msgid "Blog Way: Advanced Recent Posts"
+msgstr "Blog Way: Bài viết gần đây"
+
+#: inc/widgets/extended-recent-posts.php:102
+msgid "Recent Posts"
+msgstr "Bài đăng gần đây"
+
+#: inc/widgets/extended-recent-posts.php:113 inc/widgets/popular-posts.php:115
+msgid "Number of Posts:"
+msgstr "Số bài viết:"
+
+#: inc/widgets/popular-posts.php:20
+msgid "Widget to display popular posts with thumbnail and date."
+msgstr "Widget để hiển thị các bài viết phổ biến với hình thu nhỏ và ngày tháng."
+
+#: inc/widgets/popular-posts.php:23
+msgid "Blog Way: Popular Posts"
+msgstr "Blog Way: Bài viết phổ biến"
+
+#: inc/widgets/popular-posts.php:104
+msgid "Popular Posts"
+msgstr "Bài viết phổ biến"
+
+#. translators: theme version
+#: inc/theme-info/about.php:13
+msgid "Welcome to %s - "
+msgstr "Chào mừng phiên bản %s - "
+
+#: inc/options.php:492
+msgid "Read More Text"
+msgstr "Read More Text"
+
+#: template-parts/content.php:55 template-parts/content-full.php:55
+#: template-parts/content-search.php:51 template-parts/content-single.php:45
+msgid " / "
+msgstr " / "
+
+#: inc/options.php:361
+msgid "Enable overlay of main banner"
+msgstr "Bật lớp phủ của biểu ngữ chính"
+
+#: inc/options.php:553
+msgid "Disable prefix in archive pages"
+msgstr "Tắt tiền tố trong các trang lưu trữ"
+
+#: inc/options.php:18
+msgid "Show"
+msgstr "Chỉ"
+
+#: inc/options.php:21
+msgid "Logo Only"
+msgstr "Chỉ Logo"
+
+#: inc/options.php:22
+msgid "Title + Tagline"
+msgstr "Tiêu đề + Dòng giới thiệu"
+
+#: inc/options.php:23
+msgid "Logo + Title and Tagline"
+msgstr "Logo + Tiêu đề và Dòng giới thiệu"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Không tìm thấy trang này."
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location."
+msgstr "Có vẻ như không có gì được tìm thấy ở vị trí này."
+
+#: comments.php:41 comments.php:62
+msgid "Comment navigation"
+msgstr "Điều hướng bình luận"
+
+#: comments.php:44 comments.php:65
+msgid "Older Comments"
+msgstr "Các bình luận trước"
+
+#: comments.php:45 comments.php:66
+msgid "Newer Comments"
+msgstr "Các bình luận mới hơn"
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr "Đã đóng bình luận."
+
+#: functions.php:55
+msgid "Primary"
+msgstr "Chính"
+
+#: functions.php:56
+msgid "Social"
+msgstr "Xã hội"
+
+#: functions.php:107 inc/options.php:449
+msgid "Sidebar"
+msgstr "Cột bên"
+
+#: functions.php:109 functions.php:119 functions.php:129 functions.php:139
+#: functions.php:149
+msgid "Add widgets here."
+msgstr "Thêm widget ở đây"
+
+#: functions.php:117
+msgid "Footer 1"
+msgstr "Cuối trang 1"
+
+#: functions.php:127
+msgid "Footer 2"
+msgstr "Cuối trang 2"
+
+#: functions.php:137
+msgid "Footer 3"
+msgstr "Cuối trang 3"
+
+#: functions.php:147
+msgid "Footer 4"
+msgstr "Cuối trang 4"
+
+#: inc/theme-info/class-about.php:701 inc/customizer.php:53
+msgid "Blog Way Plus"
+msgstr "Blog Way Thêm"
+
+#: inc/customizer.php:54
+msgid "Upgrade to PRO"
+msgstr "Nâng cấp lên PRO"
+
+#: inc/defaults.php:91
+msgid "Continue Reading"
+msgstr "Tiếp tục đọc"
+
+#: inc/defaults.php:106
+msgid "Copyright &copy; All rights reserved."
+msgstr "Bản quyền &copy; Đã đăng ký Bản quyền."
+
+#: inc/extras.php:110
+msgid "Home"
+msgstr "Nhà"
+
+#. translators: 1: name of theme, 2: Link of theme author
+#: inc/hooks.php:405
+msgid "%1$s by %2$s"
+msgstr "%1$s bởi %2$s"
+
+#: inc/options.php:30
+msgid "Advance Color Options"
+msgstr "Tùy chọn màu nâng cao"
+
+#: inc/options.php:37
+msgid "General Colors"
+msgstr "Màu tổng quát"
+
+#: inc/options.php:51
+msgid "Body Text Color"
+msgstr "Màu văn bản nội dung"
+
+#: inc/options.php:68
+msgid "Site Title Color"
+msgstr "Màu của tiêu đề trang"
+
+#: inc/options.php:85
+msgid "Site Description Color"
+msgstr "Màu mô tả trang web"
+
+#: inc/options.php:102
+msgid "Button Color"
+msgstr "Nút màu"
+
+#: inc/options.php:119
+msgid "Scroll Up Color"
+msgstr "Màu cuộn lên"
+
+#: inc/options.php:129
+msgid "Header Colors"
+msgstr "Màu tiêu đề"
+
+#: inc/options.php:144
+msgid "Header Background Color"
+msgstr "Màu nền đầu trang"
+
+#: inc/options.php:161
+msgid "Menu Text Color"
+msgstr "Màu văn bản trình đơn"
+
+#: inc/options.php:178
+msgid "Active Menu + Hover Color"
+msgstr "Menu hoạt động + Màu di chuột"
+
+#: inc/options.php:188
+msgid "Heading(H1 - H6) Colors"
+msgstr "Tiêu đề (H1 - H6) Màu"
+
+#: inc/options.php:203
+msgid "Headings(H1 - H6) Color"
+msgstr "Tiêu đề (H1 - H6) Màu"
+
+#: inc/options.php:213
+msgid "Post/Meta Colors"
+msgstr "Màu bài đăng / Meta"
+
+#: inc/options.php:227
+msgid "Meta Color"
+msgstr "Màu Meta"
+
+#: inc/options.php:244
+msgid "Anchor/Link Color"
+msgstr "Màu neo / liên kết"
+
+#: inc/options.php:254
+msgid "Footer Colors"
+msgstr "Màu chân trang"
+
+#: inc/options.php:269
+msgid "Footer Background Color"
+msgstr "Màu nền chân trang"
+
+#: inc/options.php:286
+msgid "Footer Text Color"
+msgstr "Màu văn bản chân trang"
+
+#: inc/options.php:296
+msgid "Reset Color"
+msgstr "Đặt lại màu"
+
+#: inc/options.php:311
+msgid "Reset Colors"
+msgstr "Đặt lại màu"
+
+#: inc/options.php:312
+msgid "This will replace all colors with default color of the theme. Please reload page to see changes."
+msgstr "Điều này sẽ thay thế tất cả các màu với màu mặc định của chủ đề. Vui lòng tải lại trang để xem các thay đổi."
+
+#: inc/options.php:322
+msgid "Theme Options"
+msgstr "Tuỳ chọn giao diện"
+
+#: inc/options.php:330
+msgid "Header Options"
+msgstr "Tùy chỉnh header"
+
+#: inc/options.php:345
+msgid "Disable sticky header"
+msgstr "Vô hiệu hóa tiêu đề dính"
+
+#: inc/options.php:453
+msgid "Left Sidebar"
+msgstr "Cột trái"
+
+#: inc/options.php:454
+msgid "Right Sidebar"
+msgstr "Cột phải"
+
+#: inc/options.php:455
+msgid "No Sidebar"
+msgstr "Không có thanh bên"
+
+#: inc/options.php:469
+msgid "Excerpt Length"
+msgstr "Độ dài mô tả"
+
+#: inc/options.php:470
+msgid "Select number of words to display in excerpt"
+msgstr "Chọn số từ để hiển thị trong đoạn trích"
+
+#: inc/options.php:707
+msgid "Footer Options"
+msgstr "Tùy chọn chân trang"
+
+#: inc/options.php:721
+msgid "Copyright Text"
+msgstr "Văn bản Bản quyền"
+
+#: inc/options.php:722
+msgid "Copyright text of the site"
+msgstr "Văn bản bản quyền của trang web"
+
+#: inc/options.php:732
+msgid "Scroll Up Options"
+msgstr "Tùy chọn cuộn lên"
+
+#: inc/options.php:746
+msgid "Disable Scroll Up"
+msgstr "Tắt cuộn lên"
+
+#. translators: post category
+#: inc/template-tags.php:55
+msgid "Posted in %1$s"
+msgstr "Đăng trong %1$s"
+
+#. translators: tags used in post
+#: template-parts/content-single.php:90 inc/template-tags.php:62
+msgid "Tagged %1$s"
+msgstr "Được gắn thẻ %1$s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:69
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Để lại một Thảo luận<span class=\"screen-reader-text\"> trên %s</span>"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:37 inc/template-tags.php:76
+msgid "Edit %s"
+msgstr "Chỉnh sửa %s"
+
+#: inc/theme-info/about.php:176
+msgid "Font Options"
+msgstr "Tùy chọn phông chữ"
+
+#: inc/widgets/author-profile.php:25
+msgid "Display Author Profile."
+msgstr "Hiển thị hồ sơ tác giả."
+
+#: inc/widgets/author-profile.php:27
+msgid "Blog Way: Author Profile"
+msgstr "Blog Way: Hồ sơ tác giả"
+
+#: inc/widgets/author-profile.php:142
+msgid "facebook"
+msgstr "facebook"
+
+#: inc/widgets/author-profile.php:148
+msgid "twitter"
+msgstr "twitter"
+
+#: inc/widgets/author-profile.php:154
+msgid "linkedin"
+msgstr "linkedin"
+
+#: inc/widgets/author-profile.php:160
+msgid "instagram"
+msgstr "instagram"
+
+#: inc/widgets/author-profile.php:166
+msgid "pinterest"
+msgstr "pinterest"
+
+#: inc/widgets/author-profile.php:172
+msgid "youtube"
+msgstr "youtube"
+
+#: inc/widgets/author-profile.php:258 inc/widgets/extended-recent-posts.php:107
+#: inc/widgets/social-links.php:97 inc/widgets/popular-posts.php:109
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: inc/widgets/author-profile.php:264
+msgid "Author Page:"
+msgstr "Trang tác giả:"
+
+#: inc/widgets/author-profile.php:272
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Chọn &mdash;"
+
+#: inc/widgets/author-profile.php:277
+msgid "Title, Content and Featured Image of this page will be used for Author title, Bio and Profile picture."
+msgstr "Tiêu đề, Nội dung và Ảnh nổi bật của trang này sẽ được sử dụng cho tiêu đề Tác giả, Tiểu sử và Ảnh hồ sơ."
+
+#: inc/widgets/author-profile.php:313
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: inc/widgets/author-profile.php:320
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: inc/widgets/author-profile.php:327
+msgid "LinkedIn:"
+msgstr "LinkedIn:"
+
+#: inc/widgets/author-profile.php:334
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: inc/widgets/author-profile.php:341
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: inc/widgets/author-profile.php:348
+msgid "Youtube:"
+msgstr "Youtube:"
+
+#: inc/widgets/social-links.php:25
+msgid "Social Link Widget"
+msgstr "Tiện ích liên kết mạng xã hội"
+
+#: inc/widgets/social-links.php:27
+msgid "Blog Way: Social"
+msgstr "Blog Way: Xã hội"
+
+#: inc/widgets/social-links.php:103
+msgid "Social menu is not set. Please create menu and assign it to Social Theme Location."
+msgstr "Menu xã hội chưa được đặt. Vui lòng tạo trình đơn và chỉ định cho Địa điểm chủ đề xã hội."
+
+#. translators: used search keyword
+#: search.php:26
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm cho: %s"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:73 template-parts/content-full.php:74
+#: template-parts/content-single.php:72
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp tục đọc %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content.php:78 template-parts/content-page.php:24
+#: template-parts/content-full.php:79 template-parts/content-single.php:77
+msgid "Pages:"
+msgstr "Trang:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Không có kết quả"
+
+#. translators: Link to create new post
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bạn đã sẵn sàng để đăng bài viết đầu tiên của bạn? <a href=\"%1$s\">hãy bắt đầu từ đây</a>."
+
+#: template-parts/content-none.php:29
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Xin lỗi, nhưng không có kết quả phù hợp với cụm từ tìm kiếm của bạn. Vui lòng thử lại với một số từ khóa khác."
+
+#: template-parts/content-none.php:35
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Không thấy nội dung tìm kiếm. Hãy thử tìm kiếm khác."
+
+#: template-parts/content-pagination.php:13
+msgid "&laquo; Previous"
+msgstr "&laquo; Trước"
+
+#: template-parts/content-pagination.php:14
+msgid "Next &raquo;"
+msgstr "Kế tiếp &raquo;"
+
+#. translators: post author
+#: inc/template-tags.php:35
+msgctxt "post author"
+msgid "by %s"
+msgstr "bởi %s"
+
+#. translators: posted date
+#: inc/template-tags.php:29
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Đã đăng vào %s"
+
+#: functions.php:175
+msgctxt "Montserrat: on or off"
+msgid "on"
+msgstr "trên"
+
+#. translators: If there are characters in your language that are not supported
+#. by Droid Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:172
+msgctxt "Droid Serif: on or off"
+msgid "on"
+msgstr "trên"
+
+#. translators: used between list items, there is a space after the comma
+#: template-parts/content.php:30 template-parts/content-full.php:30
+#: template-parts/content-search.php:30 template-parts/content-single.php:23
+#: template-parts/content-single.php:86 inc/template-tags.php:52
+#: inc/template-tags.php:59
+msgid ", "
+msgstr ", "
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:32
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s bình luận trong &ldquo;%2$s&rdquo;"
+
+#. Author URI of the theme
+msgid "https://www.prodesigns.com/"
+msgstr "https://www.prodesigns.com/"
+
+#. Author of the theme
+msgid "ProDesigns"
+msgstr "ProDesigns"
+
+#. Theme URI of the theme
+msgid "https://www.prodesigns.com/wordpress-themes/downloads/blog-way"
+msgstr "https://www.prodesigns.com/wordpress-themes/downloads/blog-way"
