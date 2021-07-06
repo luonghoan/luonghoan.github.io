@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: Chào tất cả mọi người!	</title>
+	<atom:link href="http://localhost/myproject/wordpress/2021/05/15/chao-moi-nguoi-2/feed/" rel="self" type="application/rss+xml" />
+	<link>http://hoan913.github.io/my-wordpress-2/2021/05/15/chao-moi-nguoi-2/</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 15 May 2021 06:20:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Bởi: Một người bình luận WordPress		</title>
+		<link>http://hoan913.github.io/my-wordpress-2/2021/05/15/chao-moi-nguoi-2/#comment-2</link>
+
+		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
+		<pubDate>Sat, 15 May 2021 06:20:02 +0000</pubDate>
+		<guid isPermaLink="false">http://hoan913.github.io/my-wordpress-2/?p=1#comment-2</guid>
+
+					<description><![CDATA[Xin chào, đây là một bình luận
+Để bắt đầu với quản trị bình luận, chỉnh sửa hoặc xóa bình luận, vui lòng truy cập vào khu vực Bình luận trong trang quản trị.
+Avatar của người bình luận sử dụng &lt;a href=&quot;https://gravatar.com&quot;/ rel=&quot;nofollow ugc&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Xin chào, đây là một bình luận<br />
+Để bắt đầu với quản trị bình luận, chỉnh sửa hoặc xóa bình luận, vui lòng truy cập vào khu vực Bình luận trong trang quản trị.<br />
+Avatar của người bình luận sử dụng <a href="https://gravatar.com/" rel="nofollow ugc">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
